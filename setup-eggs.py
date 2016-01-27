@@ -67,5 +67,5 @@ setup(
                 'nltk_contrib.toolbox'
                 ],
     zip_safe=False, # since normal files will be present too?
-    install_requires=['setuptools'],
+    install_requires=['setuptools', 'nltk'],
     )
