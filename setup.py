@@ -65,4 +65,5 @@ setup(
                 'nltk_contrib.tiger.utils',
                 'nltk_contrib.toolbox'
                 ],
+    install_requires = ['setuptools', 'nltk']
     )
