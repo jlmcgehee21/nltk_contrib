@@ -19,7 +19,6 @@ setup(
     description = "NLTK-Contrib",
     
     version = 3.1,
-    # platforms = <platforms>,
     
     #############################################
     ## Package List
